@@ -1,4 +1,4 @@
-<h2 align="center"> Hi. Welcome!</h2>
+<h2 align="center"> Hi, welcome!</h2>
 
 <p> ⚖️ I am a humanities person with a degree in law who decided to be a dev!</p>
 <p>💻 I have knowledge in Vue, Ruby and a few other things.</p>
